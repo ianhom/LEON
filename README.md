@@ -1,2 +1,2 @@
 # LEON
-Link-Easy Of Network, also the name of my second son
+Lite Engine Of Network, also the name of my second son
