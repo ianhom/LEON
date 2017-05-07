@@ -7,7 +7,8 @@
 ***LEON*** is also the name of my baby son:smile:
 
 ## Features
-To be done...   
+- Lite stack for the MCU with limited resources.
+- Support Non-OS/RTOS
 
 ## How to use
 To be done...
